@@ -94,3 +94,9 @@ Siga o passo-a-passo:
    - “Por que está defendendo esse gestor?”  
    - “Você ganha algo com isso?”  
    - “É pago para defender essa gestão?”
+
+8. **Tire prints**
+
+   Guarde provas sobre qualquer interação com possíveis membros da SECOM paralela, pois isso poderá ser utilizado para denunciar o esquema. Nem sempre é possível confiar no Ministério Público regional. Portanto, antes de ter certeza do envolvimento ou da leniência do MP com a SECOM paralela, colete provas e tente ajudar outros cidadãos que também possam estar sendo vítimas das milícias digitais. 
+   
+   Agora que você sabe do mecanismo usado por eles, precisa levar essa informação para outras pessoas. O iluminismo digital necessita de um trabalho conjunto e duradouro de educação política digital.
