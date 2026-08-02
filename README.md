@@ -25,7 +25,7 @@ Por meio dessa compra de apoio digital, o Centrão dominou a chamada “catedral
 
 - **No campo político**: compram o apoio de vereadores e deputados estaduais (que deveriam fiscalizar o poder) com dinheiro, cargos para familiares, base eleitoral, facilitação em licitações e proteção digital.
 
-- **No campo religioso**: usam parcerias com pastores de igrejas protestantes, oferecendo espaço prioritário para eventos religiosos em obras públicas monumentais (centros de convenções, por exemplo), inauguradas sob o pretexto de cultura e lazer. Muitas vezes esses espaços já são utilizados por grupos religiosos antes mesmo da inauguração oficial, sem qualquer divulgação pela gestão. Os mesmos palanques depois servem aos políticos em períodos de pré-campanha.
+- **No campo religioso**: usam parcerias com pastores de igrejas protestantes, oferecendo espaço prioritário para eventos religiosos em obras públicas monumentais (centros de convenções, por exemplo), inauguradas sob o pretexto de cultura e lazer. Esses espaços já são utilizados por grupos religiosos antes mesmo da inauguração oficial, sem qualquer divulgação pela gestão. Os mesmos palanques depois servem aos políticos em períodos de pré-campanha.
 
 - **No campo educacional**: universidades federais e estaduais, centros universitários e Institutos Federais (IFs) também são blindados pelas mesmas redes da SECOM paralela. Quando alunos denunciam problemas (como larvas na comida do restaurante universitário) por meio de postagens ou protestos pacíficos, a SECOM paralela é acionada para atacá-los com ofensas e jargões políticos que não têm relação com o tema.
 
@@ -77,10 +77,10 @@ Siga o passo-a-passo:
    - “Você tem alguma relação com a gestão?”
 
 3. **Observe a reação**  
-   A maioria dos membros da primeira onda da milícia digital é pouco politizada. Ao serem confrontados com essas perguntas, costumam cessar o ataque ou marcar alguém de nível superior (advogado ou *influencer*), que entra na discussão com argumentos mais elaborados.
+   A maioria dos membros da primeira onda da milícia digital é pouco politizada. Ao serem confrontados com essas perguntas, costumam cessar o ataque ou marcar alguém de nível superior (advogado ou *influencer*), que entra na discussão com argumentos elaborados.
 
 4. **Não recue diante de ameaças**  
-   Nesse momento é fundamental que o cidadão não recue, mesmo que seja ameaçado de processo. Geralmente o *influencer* ou o advogado pergunta: “Tal gestor está mentindo? Poderia dizer as mentiras dele?”. Isso ocorre porque, se você responder afirmando que o gestor está mentindo, poderá ser processado por “ataque à honra” ou, no mínimo, ameaçado de processo: o que já faz a maioria das pessoas comuns desistir.
+   Nesse momento é fundamental que o cidadão não recue, mesmo que seja ameaçado de processo. Geralmente o *influencer* ou o advogado pergunta: “Tal gestor está mentindo? Poderia dizer as mentiras dele?”. Isso ocorre porque, se você responder afirmando que o gestor está mentindo, poderá ser processado por “ataque à honra” ou, no mínimo, ameaçado de processo: o que já faz a maioria das pessoas comuns desistirem.
 
 5. **Direcione a crítica à gestão, não à pessoa**  
    É ideal que suas críticas sejam dirigidas à gestão em si e não ao indivíduo. Dessa forma, você exerce plenamente o direito à liberdade de expressão.
